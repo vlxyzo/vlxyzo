@@ -13,14 +13,14 @@
       </ul>
     </td>
     <td align="center" width="50%">
-      <img src="https://i.pinimg.com/originals/17/42/6f/17426fc1646ef148fbbd6116613f2b69.gif" width="250" />
+      <img src="https://i.pinimg.com/originals/17/42/6f/17426fc1646ef148fbbd6116613f2b69.gif" width="auto" />
     </td>
   </tr>
 </table>
 
 ---
 
-### Technologies
+Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -38,9 +38,9 @@
 
 ---
 
-### My Vibe (On Repeat)
+My Vibe (On Repeat)
 
-<p align="center">
+<p align="left">
   <a href="https://music.apple.com/in/album/self-love-spider-man-across-the-spider-verse/1690685331?i=1690685844&ls">
     <img src="https://img.shields.io/badge/Self_Love-Metro_Boomin_&_Coi_Leray-000000?style=for-the-badge&logo=applemusic&logoColor=white" />
   </a>
@@ -57,7 +57,7 @@
 
 ---
 
-### Statistics
+Statistics
 
 <table align="center" border="0">
   <tr>
@@ -76,7 +76,7 @@
 
 ---
 
-### Keep In Touch
+Keep In Touch
 
 <p align="center">
   <a href="https://www.instagram.com/knzx.jpg">
@@ -95,11 +95,3 @@
     <img src="https://img.shields.io/badge/Saweria-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
   </a>
 </p>
-
-<br>
-
-<div align="center">
-  <sub>
-    <b>Created with 🖤 by Kenzo</b>
-  </sub>
-</div>
