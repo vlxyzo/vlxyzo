@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Old+English+Text+MT&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Welcome+to+My+World;I+Am+A+Frontend+Developer;Architect+Of+The+Web;Mastering+The+DOM;Late+Night+Coder" alt="typing svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Old+English+Text+MT&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Welcome+to+My+World;I+Am+A+Frontend+Developer;Architect+Of+The+Web;Mastering+The+DOM;Late+Night+Coder" alt="typing svg" />
 </p>
 
 <table align="center" border="0">
@@ -13,7 +13,7 @@
       </ul>
     </td>
     <td align="center" width="50%">
-      <img src="https://i.pinimg.com/originals/17/42/6f/17426fc1646ef148fbbd6116613f2b69.gif" width="400" />
+      <img src="https://i.pinimg.com/originals/17/42/6f/17426fc1646ef148fbbd6116613f2b69.gif" width="250" />
     </td>
   </tr>
 </table>
@@ -40,19 +40,16 @@
 
 ### My Vibe (On Repeat)
 
-<p align="left">
+<p align="center">
   <a href="https://music.apple.com/in/album/self-love-spider-man-across-the-spider-verse/1690685331?i=1690685844&ls">
     <img src="https://img.shields.io/badge/Self_Love-Metro_Boomin_&_Coi_Leray-000000?style=for-the-badge&logo=applemusic&logoColor=white" />
   </a>
-  <br>
   <a href="https://music.apple.com/in/album/trance/1657271960?i=1657271969&ls">
     <img src="https://img.shields.io/badge/Trance_🅴-Metro_Boomin-000000?style=for-the-badge&logo=applemusic&logoColor=white" />
   </a>
-  <br>
   <a href="https://music.apple.com/in/album/no-idea/1465000156?i=1465000157&ls">
     <img src="https://img.shields.io/badge/No_Idea_🅴-Don_Toliver-000000?style=for-the-badge&logo=applemusic&logoColor=white" />
   </a>
-  <br>
   <a href="https://music.apple.com/in/album/love-me-feat-drake-future/1440859562?i=1440859905&ls">
     <img src="https://img.shields.io/badge/Love_Me_🅴-Lil_Wayne-000000?style=for-the-badge&logo=applemusic&logoColor=white" />
   </a>
@@ -68,7 +65,7 @@
       <img src="https://i.pinimg.com/originals/f6/7c/72/f67c723dbc1bf31062ada4604b9d4c5a.gif" width="100%" style="border-radius: 4px;" />
     </td>
     <td align="center" width="60%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmekenzzx&theme=dark&background=000000&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=itsmekenzzx&theme=dark&background=000000&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF" width="100%" />
     </td>
   </tr>
 </table>
@@ -81,7 +78,7 @@
 
 ### Keep In Touch
 
-<p align="left">
+<p align="center">
   <a href="https://www.instagram.com/knzx.jpg">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
