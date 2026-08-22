@@ -79,10 +79,10 @@ Statistics
 Keep In Touch
 
 <p align="center">
-  <a href="https://www.instagram.com/knzx.jpg">
+  <a href="https://instagram.com/knnz.c">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb7adkSAojYxeMA7oU3v">
+  <a href="https://whatsapp.com/channel/0029VbDoG6HA89MZbzBFtA44">
     <img src="https://img.shields.io/badge/WhatsApp_Channel-000000?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://t.me/knzzx">
