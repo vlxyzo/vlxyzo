@@ -82,7 +82,7 @@ Keep In Touch
   <a href="https://instagram.com/knzc.i">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://whatsapp.com/channel/0029VbDoG6HA89MZbzBFtA44">
+  <a href="https://whatsapp.com/channel/0029VbEBCalLdQehNPGyLq3I">
     <img src="https://img.shields.io/badge/WhatsApp_Channel-000000?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://t.me/knzzx">
