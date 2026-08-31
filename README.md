@@ -6,7 +6,7 @@
   <tr>
     <td align="left" width="50%">
       <ul>
-        <li><b>Name</b> : Kenzo</li>
+        <li><b>Name</b> : Dipzy</li>
         <li><b>Age</b> : 19yo</li>
         <li><b>Class</b> : Frontend Developer</li>
         <li><b>Origin</b> : Indonesia</li>
@@ -65,13 +65,13 @@ Statistics
       <img src="https://i.pinimg.com/originals/f6/7c/72/f67c723dbc1bf31062ada4604b9d4c5a.gif" width="100%" style="border-radius: 4px;" />
     </td>
     <td align="center" width="60%">
-      <img src="https://streak-stats.demolab.com/?user=itsmekenzzx&theme=dark&background=000000&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=d1pzyy&theme=dark&background=000000&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF" width="100%" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmekenzzx&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=d1pzyy&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -79,16 +79,19 @@ Statistics
 Keep In Touch
 
 <p align="center">
-  <a href="https://instagram.com/knzc.i">
+  <a href="https://instagram.com/d1p.zy">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://whatsapp.com/channel/0029VbEBCalLdQehNPGyLq3I">
+  <a href="https://tiktok.com/@d1p.zy">
+    <img src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://whatsapp.com/channel/0029Vb8ad0iFXUueMu94mF0j">
     <img src="https://img.shields.io/badge/WhatsApp_Channel-000000?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://t.me/knzzx">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:nxtzyrex@gmail.com">
+  <a href="mailto: liabeyourgf@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://saweria.co/itsmekenzz">
