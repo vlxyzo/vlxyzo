@@ -88,7 +88,7 @@ Keep In Touch
   <a href="https://whatsapp.com/channel/0029Vb8ad0iFXUueMu94mF0j">
     <img src="https://img.shields.io/badge/WhatsApp_Channel-000000?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://t.me/knzzx">
+  <a href="https://t.me/d1pzzy">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:liabeyourgf@gmail.com">
