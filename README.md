@@ -91,10 +91,10 @@ Keep In Touch
   <a href="https://t.me/knzzx">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto: liabeyourgf@gmail.com">
+  <a href="mailto:liabeyourgf@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://saweria.co/itsmekenzz">
+  <a href="https://saweria.co/d1pzyy">
     <img src="https://img.shields.io/badge/Saweria-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
   </a>
 </p>
