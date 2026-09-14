@@ -9,7 +9,6 @@
         <li><b>Name</b> : Velix</li>
         <li><b>Age</b> : 19</li>
         <li><b>Class</b> : FE Dev</li>
-        <li><b>Origin</b> : China</li>
       </ul>
     </td>
     <td align="center" width="50%">
@@ -82,7 +81,7 @@ Keep In Touch
   <a href="https://www.instagram.com/vlxyzoo">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://t.me/vlxyzo">
+  <a href="https://t.me/vlxzo">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:liabeyourgf@gmail.com">
