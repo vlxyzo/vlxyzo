@@ -85,16 +85,9 @@ Keep In Touch
   <a href="https://tiktok.com/@d1p.zy">
     <img src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb8ad0iFXUueMu94mF0j">
-    <img src="https://img.shields.io/badge/WhatsApp_Channel-000000?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://t.me/d1pzzy">
+  <a href="https://t.me/vlxyzo">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:liabeyourgf@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://saweria.co/d1pzyy">
-    <img src="https://img.shields.io/badge/Saweria-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
-  </a>
-</p>
