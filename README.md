@@ -79,7 +79,7 @@ Statistics
 Keep In Touch
 
 <p align="center">
-  <a href="https://instagram.com/d1p.zy">
+  <a href="https://www.instagram.com/vlxyzoo">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://t.me/vlxyzo">
