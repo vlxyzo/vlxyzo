@@ -6,10 +6,10 @@
   <tr>
     <td align="left" width="50%">
       <ul>
-        <li><b>Name</b> : Dipzy</li>
-        <li><b>Age</b> : 19yo</li>
-        <li><b>Class</b> : Frontend Developer</li>
-        <li><b>Origin</b> : Indonesia</li>
+        <li><b>Name</b> : Velix</li>
+        <li><b>Age</b> : 19</li>
+        <li><b>Class</b> : Frontend Dev</li>
+        <li><b>Origin</b> : Guangzhou, China</li>
       </ul>
     </td>
     <td align="center" width="50%">
