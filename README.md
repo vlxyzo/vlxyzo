@@ -82,9 +82,6 @@ Keep In Touch
   <a href="https://instagram.com/d1p.zy">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://tiktok.com/@d1p.zy">
-    <img src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
   <a href="https://t.me/vlxyzo">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
