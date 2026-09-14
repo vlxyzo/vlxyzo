@@ -8,8 +8,8 @@
       <ul>
         <li><b>Name</b> : Velix</li>
         <li><b>Age</b> : 19</li>
-        <li><b>Class</b> : Frontend Dev</li>
-        <li><b>Origin</b> : Guangzhou, China</li>
+        <li><b>Class</b> : FE Dev</li>
+        <li><b>Origin</b> : China</li>
       </ul>
     </td>
     <td align="center" width="50%">
@@ -65,13 +65,13 @@ Statistics
       <img src="https://i.pinimg.com/originals/f6/7c/72/f67c723dbc1bf31062ada4604b9d4c5a.gif" width="100%" style="border-radius: 4px;" />
     </td>
     <td align="center" width="60%">
-      <img src="https://streak-stats.demolab.com/?user=d1pzyy&theme=dark&background=000000&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=vlxyzo&theme=dark&background=000000&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF" width="100%" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=d1pzyy&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vlxyzo&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
