@@ -81,7 +81,7 @@ Keep In Touch
   <a href="https://www.instagram.com/vlxyzo">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://t.me/vlxzo">
+  <a href="https://t.me/chvlxyzo">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:liabeyourgf@gmail.com">
