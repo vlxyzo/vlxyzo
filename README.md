@@ -70,7 +70,7 @@ Statistics
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vlxyzo&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/vlxyzo/vlxyzo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
