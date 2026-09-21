@@ -69,9 +69,6 @@ Statistics
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vlxyzo/vlxyzo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
