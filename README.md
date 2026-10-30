@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/originals/b6/b2/e4/b6b2e4adee7b5dea734077ee4522e5a3.gif" width="auto" alt="img1">
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=950&lines=Welcome+To+My+World;Architecting+The+Unseen;100%25+Pixel+Perfection" alt="typing svg" />
 </p>
@@ -12,7 +14,7 @@
       </ul>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/59c46d7a-4d1f-49f4-828e-729e0257e402" width="auto" />
+      <img src="https://github.com/user-attachments/assets/59c46d7a-4d1f-49f4-828e-729e0257e402" width="auto" alt="img2">
     </td>
   </tr>
 </table>
