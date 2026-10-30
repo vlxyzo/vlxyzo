@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Old+English+Text+MT&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Welcome+to+My+World;I+Am+A+Frontend+Developer;Architect+Of+The+Web;Mastering+The+DOM;Late+Night+Coder" alt="typing svg" />
-</p>
+
 
 <table align="center" border="0">
   <tr>
