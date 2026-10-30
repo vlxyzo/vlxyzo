@@ -12,7 +12,7 @@
       </ul>
     </td>
     <td align="center" width="50%">
-      <img src="https://i.pinimg.com/originals/17/42/6f/17426fc1646ef148fbbd6116613f2b69.gif" width="auto" />
+      <img src="https://github.com/user-attachments/assets/59c46d7a-4d1f-49f4-828e-729e0257e402" width="auto" />
     </td>
   </tr>
 </table>
