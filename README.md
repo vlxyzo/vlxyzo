@@ -66,7 +66,7 @@
 <table align="center" border="0">
   <tr>
     <td align="center" width="37%">
-      <img src="https://i.pinimg.com/originals/b6/b2/e4/b6b2e4adee7b5dea734077ee4522e5a3.gif" width="auto" style="border-radius: 4px;" alt="3">
+      <img src="https://github.com/user-attachments/assets/ac248df3-484d-466f-b89c-ffd0b36771b1" width="auto" style="border-radius: 4px;" alt="3">
     </td>
     <td align="center" width="70%">
       <img src="https://streak-stats.demolab.com/?user=vlxyzo&theme=dark&background=000000&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF" width="auto" />
